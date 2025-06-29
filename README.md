@@ -25,10 +25,10 @@ A responsive web application that fetches and displays real-time weather data us
 
 ##  Built With
 
-- **HTML5** – structure
-- **CSS3** – styling and layout
-- **JavaScript** – functionality and API integration
-- **OpenWeatherMap API** – public weather data source
+- HTML5 – structure
+- CSS3 – styling and layout
+- JavaScript – functionality and API integration
+- OpenWeatherMap API – public weather data source
 
 
 ##  Features
@@ -39,6 +39,31 @@ City-based weather search
 - Mobile-friendly layout
 
 - Error handling for invalid city names
+
+
+## Getting Started
+
+1. Clone the Repository
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   cd weather-app
+2. Get an API Key
+
+   Sign up at openweathermap.org
+
+3. Go to your account > API Keys > Generate Key
+
+   Insert the API Key
+
+4. Open script.js
+
+   Replace "YOUR_API_KEY" with your actual key
+
+5. Run the App
+
+   Open index.html in your browser
+
+Or use Live Server in VS Code
 
 ## OUTPUT
 
