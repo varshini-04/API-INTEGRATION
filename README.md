@@ -12,18 +12,18 @@ DURATION: 6 WEEKS
 MENTOR: NEELA SANTOSH
 
 
-# 🌐 Weather App - API Integration Project
+#  Weather App - API Integration Project
 
 A responsive web application that fetches and displays real-time weather data using the **OpenWeatherMap API**. Developed as part of the **CODTECH Internship - API Integration Task**.
 
-## 📌 Project Objective
+##  Project Objective
 
-- ✅ Integrate a public API into a webpage
-- ✅ Dynamically load and display live data
-- ✅ Ensure responsive design across devices
+-  Integrate a public API into a webpage
+-  Dynamically load and display live data
+-  Ensure responsive design across devices
 
 
-## 🔧 Built With
+##  Built With
 
 - **HTML5** – structure
 - **CSS3** – styling and layout
@@ -31,14 +31,14 @@ A responsive web application that fetches and displays real-time weather data us
 - **OpenWeatherMap API** – public weather data source
 
 
-## 💡 Features
-🌍 City-based weather search
+##  Features
+City-based weather search
  
-🌡 Displays temperature, condition, humidity, 
+- Displays temperature, condition, humidity, 
 
-📱 Mobile-friendly layout
+- Mobile-friendly layout
 
-⚠️ Error handling for invalid city names
+- Error handling for invalid city names
 
 ## OUTPUT
 
