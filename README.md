@@ -42,5 +42,7 @@ City-based weather search
 
 ## OUTPUT
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/31de28a4-2db5-44b9-ba54-8e63f147535e" />
+
 
 
